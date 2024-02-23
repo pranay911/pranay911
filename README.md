@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranay Gaikwad</h1>
-<h3 align="center">Thanks for visiting my GitHub repository! This repository serves as a showcase for my work as a Java Full Stack Developer and contains a variety of projects, code samples, and other materials pertaining to various facets of full stack development using Java technologies. Whether you're a fellow developer, a hiring manager, or just interested in my work, I hope you learn something from this.</h3>
+<h3 align="center">Thanks for visiting my GitHub repository! This repository serves as a showcase for my work as a Java Full Stack Developer and contains a variety of projects, code samples, and other materials pertaining to various facets of full-stack development using Java technologies. Whether you're a fellow developer, a hiring manager, or just interested in my work, I hope you learn something from this.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranay911&label=Profile%20views&color=0e75b6&style=flat" alt="pranay911" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranay911&theme=" alt="pranay911" /></a> </p>
@@ -33,19 +33,3 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/cypress.svg" alt="Cypress" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay911&hide_progress=true&theme=monokai" alt=pranay911 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pranay911&show_icons=true&locale=en&theme=highcontrast" alt="pranay911" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranay911&theme=default" alt="pranay911" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/pranay911">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranay911&theme=blueberry" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranay911&theme=blueberry" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranay911&theme=blueberry" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranay911&theme=buefy" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranay911&theme=2077" height="180em" />
-</div>
